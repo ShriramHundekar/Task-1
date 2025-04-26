@@ -1,12 +1,12 @@
 # Task-1
 Data cleaning and preprocessing on Titanic dataset for ML
-# 🚢 Titanic Dataset - Data Cleaning & Preprocessing
+# Dataset - Data Cleaning & Preprocessing
 
 This repository contains a Jupyter notebook that demonstrates essential data preprocessing techniques applied to the Titanic dataset. The goal is to prepare raw data for machine learning models.
 
 ---
 
-## 📌 Objectives
+##  Objectives
 
 - Handle missing values
 - Encode categorical variables
@@ -16,21 +16,21 @@ This repository contains a Jupyter notebook that demonstrates essential data pre
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Titanic_Cleaned_Preprocessing.ipynb` – Main notebook with all preprocessing steps
 - `cleaned_titanic_data.csv` – Final cleaned dataset ready for modeling
 
 ---
 
-## 📊 Dataset Used
+##  Dataset Used
 
 - Source: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - Data contains passenger info like age, class, fare, gender, etc., and whether they survived.
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
@@ -40,7 +40,7 @@ This repository contains a Jupyter notebook that demonstrates essential data pre
 
 ---
 
-## 📦 How to Run
+##  How to Run
 
 1. Clone this repo:
    ```bash
